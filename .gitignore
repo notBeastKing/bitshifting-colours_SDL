@@ -1,0 +1,9 @@
+.vscode
+bin
+SDL2.dll
+cppfiles/firstSDL.cpp
+cppfiles/pixels.cpp
+cppfiles/SDLwindow.cpp
+cppfiles/class_screen.cpp
+cppfiles/setting_pixels.cpp
+git.txt
